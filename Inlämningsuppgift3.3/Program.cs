@@ -18,7 +18,7 @@ namespace inlämningsuppgift3_3
             }
             else
             {
-                Console.WriteLine("Det totala priset för antal timmar blir: " + hyra + "kr");
+                Console.WriteLine("Det totala priset för antal timmar blir: " + hyra + "kr");//
             }
         }
     }
